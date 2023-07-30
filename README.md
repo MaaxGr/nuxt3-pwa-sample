@@ -11,7 +11,7 @@ Feel free to fork or reuse the project. :)
 3. Open browser at http://localhost:3000
 4. Install app :)
 
-![img.png](img.png)
+![Example Image](.docs/example-img.png)
 
 
 ## Credits
